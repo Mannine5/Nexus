@@ -4,6 +4,8 @@ Nexus is an Unreal Engine 5 project focused on C++ gameplay programming, the Gam
 
 The project serves as a learning project and a portfolio piece to demonstrate gameplay systems implemented with a combination of C++ and Unreal Engine Blueprints.
 
+https://github.com/user-attachments/assets/89d01afa-db69-4c69-b08a-26e4f9d66834
+
 ## Features
 
 - Gameplay Ability System: Abilities, attribute sets, gameplay effects, and gameplay cues.
@@ -22,7 +24,7 @@ The project serves as a learning project and a portfolio piece to demonstrate ga
 
 Unreal Engine 5
 
-C++
+- C++
 
 - Unreal Engine Blueprints
 
