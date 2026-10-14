@@ -1,0 +1,58 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+_GENERATED/
+
+# IDE and editor files
+.vscode/
+.vs/
+.vsconfig
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.DotSettings.user
+
+# Packaged builds
+PackagedBuilds/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Third-party and Epic template content
+# Verify that these folders do not contain project-specific work
+Content/Fab/
+Content/Developers/
+Content/LevelPrototyping/
+Content/Assets/
+Content/Audio/
+Content/VFX/
+Content/Materials/
+Content/Characters/
+
+# Unreal World Partition external actor data
+# Keep these tracked if published maps depend on them
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
+# Third-party character animation
+Content/GameplayAbilitySystem/Character/Animations/Erika_T-Pose/
+
+# Mixamo files identified by filename
+*Mixamo*
+*mixamo*
+
+# Third-party inventory resource icons from Fab
+Content/InventorySystem/UI/CraftResourcesIcons/
+
+# Third-party Mixamo animations
+Content/AIControllerTutorial/Animations/
+Content/GameplayAbilitySystem/Character/Animations/

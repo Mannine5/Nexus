@@ -1,0 +1,1 @@
+"E:\Epic Games\UE_5.7\Engine\Binaries\Win64\UnrealEditor.exe" "E:\Unreal Projects\Kouluprojektit\GAS\Nexus\Nexus.uproject" Lvl_ThirdPerson -server -log
